@@ -12,7 +12,7 @@ customer program enrollment.
 | `workcenter.html` | Work Center only (identified customer with active contracts, persona switcher) |
 | `movein.html` | Move-In embedded step only (pre-active context, deferred fulfillment) |
 
-Live (GitHub Pages, once enabled): https://sri-varahi-global-business-services-llc.github.io/enrollment-center-demo/ ,
+Live (GitHub Pages, once enabled): https://nammi2011.github.io/enrollment-center-demo/ ,
 `/workcenter.html`, `/movein.html`
 
 ## What it shows
